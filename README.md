@@ -1,7 +1,7 @@
 # Unreal-Engine-C-CheatSheet
 A Basic cheat sheet for programming for the Unreal Engine 
 The file is a C++ File for Visual Basics so you must have visual Basic in order to see both ".h" & ".cpp" files
-How this helps.
+Hope this helps you on your Unreal Development Journey..
 
 Just in case you are to lazy to get visual studios for some reason then Ill will put the main_source.cpp file in the read me for quick reference.
 
