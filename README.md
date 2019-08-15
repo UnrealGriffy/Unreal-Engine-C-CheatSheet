@@ -1,9 +1,14 @@
 # Unreal-Engine-C-CheatSheet
-A Basic cheat sheet for programming for the Unreal Engine 
-The file is a C++ File for Visual Basics so you must have visual Basic in order to see both ".h" & ".cpp" files
-Hope this helps you on your Unreal Development Journey..
+A Basic C++ Cheat Sheet for programming for the Unreal Engine. 
 
-Just in case you are to lazy to get visual studios for some reason then Ill will put the main_source.cpp file in the read me for quick reference.
+(Cheat Sheet covers: if-Statments,For-Loops, and structs to Pointers,eNums, and Arrays)
+
+(The "//" in the code categorizes certain sections & practices; the section are matched too other section in the code and if you want to run the code make sure you delete "/**/" around the matching categorized practice but leave the "//" to ensure that that the code runs.)
+
+The file is a C++ File for Visual Basics so you must have visual Basic in order to see both ".h" & ".cpp" files
+Hope this helps you on your Unreal Game Development Journey..
+
+P.S. Just in case you are to lazy to get visual studios for some reason then I will put the main_source.cpp file in the read me for quick reference.
 
 
 
